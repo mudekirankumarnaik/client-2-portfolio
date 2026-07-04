@@ -32,3 +32,6 @@ A modern, responsive personal portfolio website showcasing my education, skills,
 •⁠  ⁠images/
 •⁠  ⁠README.md
 
+👨‍💻 Developer
+
+Developed by Mude Kiran Kumar Naik for a client as a custom portfolio website.
